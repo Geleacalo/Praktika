@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ycJ6uEKAw0gManA7FwZWnfo2Jlpqxl8aefTpXKA5YkvxMbhADJhpi2yyeF7VP/qgD8ans1WTQuEd8O+Xnmb9uA==",
+  "dgSpecHash": "33ojt5yGNCdOTg9bAzJEF3J7TChcFbx8ZPNPemDAe2UhkjjAzct63ACnA2BROKNAIXRNWkcInzCL03y4guDxOw==",
   "success": true,
-  "projectFilePath": "D:\\сурков\\Praktika_Edukov\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "C:\\Users\\student\\Desktop\\Praktika\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

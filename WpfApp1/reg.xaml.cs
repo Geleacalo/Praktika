@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -30,26 +31,37 @@ namespace WpfApp1
             var login = LoginBox.Text;
             var pass = PasswordBox1.Text;
             var Email = EmailBox.Text;
+            var Mes = MesBox.Text;
             var context = new AppDbContext();
             var user_exists = context.Users.FirstOrDefault(x => x.Login == login);
-            if (EmailBox.Text.Contains("@gmail.com")  || EmailBox.Text.Contains("@mail.ru") || EmailBox.Text.Contains("@yandex.ru") == false)
+            if ((!Regex.IsMatch(Email, @"^[a-zA-Z0-9_.+-]+@(mail\.ru|gmail\.com|yandex\.ru)$")))
             {
-                MessageBox.Show("Указан неверный email!");
+                MesBox.Text = "Указан неверный email!";
             }
-            else if (PasswordBox1.Text.Length < 8) 
+            else if (((!Regex.IsMatch(pass, @"[!,&%+_]"))))
             {
-                MessageBox.Show("Данный пароль является ненадежным!");
+                MesBox.Text = "";
+                MesBox.Text = "В паролe требуются спец. символы!";
+
             }
+            else if (PasswordBox1.Text.Length < 8)
+            {
+                MesBox.Text = "";
+                MesBox.Text = "Данный пароль является ненадежным!";
+            }
+
             else if (PasswordBox1.Text != PasswordBox2.Text)
             {
-                MessageBox.Show("Пароли не совпадают!");
+                MesBox.Text = "";
+                MesBox.Text = "Пароли не совпадают!";
             }
             else if (user_exists is not null)
             {
-                MessageBox.Show("Такой пользователь уже существует");
+                MesBox.Text = "";
+                MesBox.Text = "Такой пользователь уже существует";
                 return;
             }
-            else 
+            else
             {
                 var user = new User { Login = login, Password = pass, Email = Email };
                 context.Users.Add(user);

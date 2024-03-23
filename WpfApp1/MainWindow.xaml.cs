@@ -29,7 +29,7 @@ namespace WpfApp1
         {
             var login = LoginBox.Text;
             var password = PasswordBox.Text;
-
+           
             var context = new AppDbContext();
 
             var user = context.Users.SingleOrDefault(x => x.Login == login && x.Password == password);
@@ -47,6 +47,23 @@ namespace WpfApp1
             this.Hide();
             reg reg = new reg();
             reg.Show();
+        }
+
+        private void glaz_Click(object sender, RoutedEventArgs e)
+        {
+            bool p = true;
+            if (p)
+            {
+                PasswordBox.Visibility = Visibility.Collapsed;
+                notpass.Visibility = Visibility.Visible;
+                p = false;
+            }
+            else
+            {
+                PasswordBox.Visibility = Visibility.Visible;
+                notpass.Visibility = Visibility.Collapsed;
+                p = false;
+            }
         }
     }
    
