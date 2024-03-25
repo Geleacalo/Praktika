@@ -108,3 +108,117 @@ C:\Users\student\Desktop\Praktika\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp
 C:\Users\student\Desktop\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
 C:\Users\student\Desktop\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\student\Desktop\Praktika\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\reg.g.cs
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\reg.baml
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.sourcelink.json
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\mikae\OneDrive\Рабочий стол\Praktika\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Praktika\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\reg.g.cs
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\reg.baml
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.sourcelink.json
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.Up2Date
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\PRIVET.g.cs
+D:\Praktika\WpfApp1\obj\Debug\net6.0-windows\PRIVET.baml

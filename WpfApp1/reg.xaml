@@ -36,5 +36,9 @@
         <Button Name="avtor" Content="Авторизоваться" Background="{x:Null}" BorderBrush="Purple" Width="235" FontSize="25" Grid.Column="3" Grid.ColumnSpan="2" Grid.Row="5" Margin="10,6,22,15" Click="avtor_Click"/>
         <Button Name="registr" FontSize="25" Content="Зарегистрироваться" Background="Green" Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="2" Height="50" Click="registr_Click" />
         <TextBlock Grid.ColumnSpan="6" Height="50" FontSize="25" Name="MesBox"/>
+        <TextBlock Name="error1" Grid.ColumnSpan="6" Height="5" Grid.Row="1" Background="Red" Margin="133,46,133,6" Visibility="Collapsed"/>
+        <TextBlock Name="error2" Grid.ColumnSpan="6" Height="5" Grid.Row="3" Background="Red" Margin="133,46,133,6" Visibility="Collapsed"/>
+        <TextBlock Name="error3" Grid.ColumnSpan="6" Height="5" Grid.Row="4" Background="Red" Margin="133,46,133,6" Visibility="Collapsed"/>
+        <TextBlock Name="error4" Grid.ColumnSpan="6" Height="5" Grid.Row="4" Background="Red" Margin="133,46,133,6" Visibility="Collapsed"/>
     </Grid>
 </Window>

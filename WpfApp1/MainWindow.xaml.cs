@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace WpfApp1
 {
@@ -25,20 +26,27 @@ namespace WpfApp1
             InitializeComponent();
         }
 
-        private void vhod_Click(object sender, RoutedEventArgs e)
+        public void vhod_Click(object sender, RoutedEventArgs e)
         {
             var login = LoginBox.Text;
-            var password = PasswordBox.Text;
+            var password = TextBox1.Text;
            
             var context = new AppDbContext();
 
             var user = context.Users.SingleOrDefault(x => x.Login == login && x.Password == password);
             if (user is null) 
             {
-                MessageBox.Show("Неправильный логин или пароль!");
+                MesBox1.Text = "Неправильный логин или пароль!";
                 return;
             }
-            MessageBox.Show("Вы успешно вошли в аккаунт!");
+
+            MesBox1.Text = "Вы успешно вошли в аккаунт!";
+            this.Hide();
+            PRIVET pRIVET = new PRIVET();
+            pRIVET.Show();
+            pRIVET.PrivBox.Text = "Зравствуйте, " + LoginBox.Text;
+            
+            
             
         }
 
@@ -48,22 +56,34 @@ namespace WpfApp1
             reg reg = new reg();
             reg.Show();
         }
-
+        bool p = true;
         private void glaz_Click(object sender, RoutedEventArgs e)
-        {
-            bool p = true;
+        {           
+            
             if (p)
             {
+                
                 PasswordBox.Visibility = Visibility.Collapsed;
-                notpass.Visibility = Visibility.Visible;
+                Glazik.Source = new BitmapImage(new Uri("Recourses/7.png", UriKind.Relative));
+                TextBox1.Text = PasswordBox.Password;
+                TextBox1.Visibility = Visibility.Visible;
+
                 p = false;
             }
             else
             {
+                
                 PasswordBox.Visibility = Visibility.Visible;
-                notpass.Visibility = Visibility.Collapsed;
-                p = false;
+                Glazik.Source = new BitmapImage(new Uri("Recourses/5.png", UriKind.Relative));               
+                PasswordBox.Password = TextBox1.Text;
+                TextBox1.Visibility = Visibility.Collapsed;
+                p = true;
             }
+        }
+
+        private void glaz_Click_1(object sender, RoutedEventArgs e)
+        {
+
         }
     }
    

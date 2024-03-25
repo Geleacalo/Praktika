@@ -10,6 +10,7 @@
   <ItemGroup>
     <None Remove="Recourses\1.png" />
     <None Remove="Recourses\4.png" />
+    <None Remove="Recourses\5.png" />
     <None Remove="Recourses\6.png" />
     <None Remove="Recourses\7.png" />
   </ItemGroup>
@@ -26,6 +27,7 @@
   <ItemGroup>
     <Resource Include="Recourses\1.png" />
     <Resource Include="Recourses\4.png" />
+    <Resource Include="Recourses\5.png" />
     <Resource Include="Recourses\6.png" />
     <Resource Include="Recourses\7.png" />
   </ItemGroup>

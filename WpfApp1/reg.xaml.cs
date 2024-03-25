@@ -37,36 +37,46 @@ namespace WpfApp1
             if ((!Regex.IsMatch(Email, @"^[a-zA-Z0-9_.+-]+@(mail\.ru|gmail\.com|yandex\.ru)$")))
             {
                 MesBox.Text = "Указан неверный email!";
+                error1.Visibility = Visibility.Visible;
             }
+            
             else if (((!Regex.IsMatch(pass, @"[!,&%+_]"))))
             {
+                error1.Visibility = Visibility.Collapsed;
+                error2.Visibility = Visibility.Visible;
                 MesBox.Text = "";
                 MesBox.Text = "В паролe требуются спец. символы!";
 
             }
             else if (PasswordBox1.Text.Length < 8)
             {
+                error2.Visibility = Visibility.Visible;
                 MesBox.Text = "";
                 MesBox.Text = "Данный пароль является ненадежным!";
             }
 
             else if (PasswordBox1.Text != PasswordBox2.Text)
             {
+                error2.Visibility = Visibility.Collapsed;
+                error3.Visibility = Visibility.Visible;
                 MesBox.Text = "";
                 MesBox.Text = "Пароли не совпадают!";
             }
             else if (user_exists is not null)
             {
+                error3.Visibility = Visibility.Collapsed;
+                error4.Visibility = Visibility.Visible;
                 MesBox.Text = "";
-                MesBox.Text = "Такой пользователь уже существует";
+                MesBox.Text = "Такой пользователь уже существует!";
                 return;
             }
             else
             {
+                error4.Visibility = Visibility.Collapsed;
                 var user = new User { Login = login, Password = pass, Email = Email };
                 context.Users.Add(user);
                 context.SaveChanges();
-                MessageBox.Show("Добро пожаловать!");
+                MesBox.Text = "Добро пожаловать!";
             }
 
 
